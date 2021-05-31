@@ -6,6 +6,6 @@ Docker Files
 Treinamento Descomplicando Docker!!!!!!!!!!!!!!!!!!!!!
 
 #Compose
-V1
+V1.1
 
 
